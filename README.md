@@ -156,7 +156,7 @@ Layers that are understandable, testable and replaceable on their own.
 ## ✈️ Airgo
 
 **Full-stack airline management system.**
-[`github.com/Sunbeam-Bhavesh/Airgo`](https://github.com/Sunbeam-Bhavesh/Airgo)
+[`bhaveshgupta1811-airgo.vercel.app`](https://bhaveshgupta1811-airgo.vercel.app)
 
 ```text
   React SPA + React Router
